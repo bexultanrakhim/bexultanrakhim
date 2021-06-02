@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+Happy to see you in my github page :)
 <!--
 **bexultanrakhim/bexultanrakhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
